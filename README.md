@@ -1,5 +1,5 @@
 # 📊 Customer RFM Analysis & Churn Prediction Dashboard
-
+🚀 **[Click here to view the Live App](https://customersegmentationapp-zmaax8l3puzmyjhlit56cz.streamlit.app/)**
 A professional, interactive Streamlit dashboard that transforms raw e-commerce transaction data into actionable business insights. This application uses **RFM (Recency, Frequency, Monetary) Analysis**, **K-Means Clustering**, and **Machine Learning (Random Forest)** to segment customers and predict churn risk.
 
 ## 🚀 Features
